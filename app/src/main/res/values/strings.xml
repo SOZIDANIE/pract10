@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">izotov_pract10</string>
+    <string name="zadat">Задайте пароль</string>
+    <string name="vvedite">Введите пароль</string>
+    <string name="done">Готово!</string>
+    <string name="password">Пароль успешно введён!</string>
+</resources>
